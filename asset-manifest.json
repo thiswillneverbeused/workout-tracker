@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/workout-tracker/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/workout-tracker/static/js/main.b389136a.chunk.js",
+    "main.js.map": "/workout-tracker/static/js/main.b389136a.chunk.js.map",
+    "runtime~main.js": "/workout-tracker/static/js/runtime~main.de2a187d.js",
+    "runtime~main.js.map": "/workout-tracker/static/js/runtime~main.de2a187d.js.map",
+    "static/js/2.ae026ab9.chunk.js": "/workout-tracker/static/js/2.ae026ab9.chunk.js",
+    "static/js/2.ae026ab9.chunk.js.map": "/workout-tracker/static/js/2.ae026ab9.chunk.js.map",
+    "static/js/3.940f5f6f.chunk.js": "/workout-tracker/static/js/3.940f5f6f.chunk.js",
+    "static/js/3.940f5f6f.chunk.js.map": "/workout-tracker/static/js/3.940f5f6f.chunk.js.map",
+    "index.html": "/workout-tracker/index.html",
+    "precache-manifest.1e12fb8c09674c278ccdd288077f0f7b.js": "/workout-tracker/precache-manifest.1e12fb8c09674c278ccdd288077f0f7b.js",
+    "service-worker.js": "/workout-tracker/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/workout-tracker/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
